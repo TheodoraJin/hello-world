@@ -1,2 +1,6 @@
 # hello-world
-Testing.
+Hi humans,
+
+Testing how to use github.
+
+Thea
